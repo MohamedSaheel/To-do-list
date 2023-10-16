@@ -1,0 +1,9 @@
+.items{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    
+}
+p{
+    margin: 0px;
+}
